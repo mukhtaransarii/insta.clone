@@ -3,9 +3,10 @@ body{
 	 display: flex;
 	 justify-content: center;
 	 align-items: center;
+	font-family: Arial, sans-serif;
 }
 .center{
-	width: 300px;
+	width: 304px;
 	background-color: white;
 	padding: 10px;
 	border-radius: 11px;
@@ -61,7 +62,7 @@ h6{
 	width: 100%;
 }
 .bio{
-	font-size: 15px;
+	font-size: 13px;
 }
 #telLink{
 	color: #063D75;
